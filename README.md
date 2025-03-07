@@ -5,7 +5,7 @@
 - El objetivo de este laboratorio está en el uso de la **condicional IF**, **creación de funciones**, **validación de los parámetros** y recuerde que en cada función que desarrollen agregar los **comentarios** (nombre, parámetros entrada, salida y restricciones).
 - Finalizado el laboratorio subir el archivo con el nombre de **Laboratorio01.py**, la entrega cierra a las **3pm del 7 de marzo del 2025** y será a través del Github Classroom...
 - Deben ser muy claros con los mensajes de error que programen en su código.
-- Como observación no solo se califica que el correcto funcionamiento del código sino tambén las validaciones, comentarios y el uso correcto de laaas funciones o bloques de código permitidos
+- Como observación, no solo se califica el correcto funcionamiento del código sino también las validaciones, comentarios y el uso correcto de las funciones o bloques de código permitidos
 
 
 ## calcularRenta(monto)
